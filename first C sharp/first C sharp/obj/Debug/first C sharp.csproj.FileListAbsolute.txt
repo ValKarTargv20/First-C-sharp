@@ -1,0 +1,7 @@
+C:\Users\Валерия\Documents\Учёба\Programeerimine\C#\first C sharp\first C sharp\first C sharp\bin\Debug\first C sharp.exe.config
+C:\Users\Валерия\Documents\Учёба\Programeerimine\C#\first C sharp\first C sharp\first C sharp\bin\Debug\first C sharp.exe
+C:\Users\Валерия\Documents\Учёба\Programeerimine\C#\first C sharp\first C sharp\first C sharp\bin\Debug\first C sharp.pdb
+C:\Users\Валерия\Documents\Учёба\Programeerimine\C#\first C sharp\first C sharp\first C sharp\obj\Debug\first C sharp.csprojAssemblyReference.cache
+C:\Users\Валерия\Documents\Учёба\Programeerimine\C#\first C sharp\first C sharp\first C sharp\obj\Debug\first C sharp.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Documents\Учёба\Programeerimine\C#\first C sharp\first C sharp\first C sharp\obj\Debug\first C sharp.exe
+C:\Users\Валерия\Documents\Учёба\Programeerimine\C#\first C sharp\first C sharp\first C sharp\obj\Debug\first C sharp.pdb
